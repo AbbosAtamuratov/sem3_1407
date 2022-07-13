@@ -1,0 +1,12 @@
+> # README #
+
+## QUOTES 
+
+## HEADERS
+
+## FORMATING
+
+## LISTS
+
+## LINKS AND PICS
+
