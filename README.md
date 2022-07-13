@@ -148,3 +148,5 @@ You can also work with images in MARKDOWN.
 > ### Example
 >
 > ![everybody loves a good Shrek meme](shrek.jpg)
+
+Just added random text
