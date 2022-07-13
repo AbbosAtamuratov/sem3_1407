@@ -58,6 +58,42 @@ Always divide your title with space otherwise it won't trigger or show exess (#)
 
 ## FORMATING
 
+You can format your text in MARKDOWN, you can make it _italic_ or __bold__. To do that frame ypur text with (*) or (_) symbol without spaces for *italic* and double (*) or (_) symbols for **bold**. You cam also use HTML commands to do the same thing. 
+
+> Use (*) or (_) or (< i > without spaces) for *italic*
+>
+> Use (**) or (__) or (< b > without spaces) for **bold**
+>
+> Use any combination of (*) or (_) or (< i > without spaces) AND (**) or (__) or (< b > without spaces) for __*italic bold*__
+
+You can frame your text in ( ` ) symbol to mark your text as code.
+
+`Hello world`
+
+Some useful HTML commands
+> < u > without spaces for <u>underlined</u>
+>
+> < s > without spaces for <s>crossed out</s>
+>
+> < mark > without spaces to <mark> highlight your text </mark>  
+>
+> < big > without spaces for <big> big text </big>
+>
+> < small > without spaces for <small> smaller text </small>
+>
+> < center > without spaces for alinging in 
+> <center> center </center>
+> To customize your text otherwise <b> use < font > command. </b> This command has 3 arguments: size, color and face.
+
+> ### Syntax ###
+> < font size="put a number here" color="put a color here" face="put a font name here (Arial, Calibri ect.)"> 
+> 
+>Let's try to use it with arguments size="4", color="cyan" and face="Comic sans ms"
+>
+> <font size="4" color="cyan" face="comic sans ms">Example of a custom font</font>
+
+In future blocks we'll work with links, I'll leave a link to HTML commands guide. Try to experement yourself.
+
 ## LISTS
 
 ## LINKS AND PICS
