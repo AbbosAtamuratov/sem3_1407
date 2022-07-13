@@ -120,3 +120,31 @@ To create numbered list use numbers with dot in the begining of your row.
 
 ## LINKS AND PICS
 
+You can utilize links in MARKDOWN. 
+To do that put your link in your file with https protocol
+> https://www.youtube.com/watch?v=G1IbRujko-A&t=22s
+
+You can also make hyper-refferences by using HTML command < a href >
+
+> ### Syntax & Example
+>
+> Type without spaces:
+>
+> < a href = "put your URL here" > your text < /a >
+>
+> <a href="https://www.youtube.com/watch?v=SF-_47-oCtk"> Here, enjoy! :) </a>
+
+You can also work with images in MARKDOWN. 
+
+***To place an image in your document you must make some steps:***
+1. Find and downlaod your image into your repository folder
+2. Add your image via <code> git add </code> command in your terminal
+3. Then use correct syntax in your file
+
+> ### Syntax
+> Write next command without spaces
+>> ! [ unnecessary text can be used as title ] (filename with file format) 
+>
+> ### Example
+>
+> ![everybody loves a good Shrek meme](shrek.jpg)
