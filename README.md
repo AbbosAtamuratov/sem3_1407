@@ -96,5 +96,27 @@ In future blocks we'll work with links, I'll leave a link to HTML commands guide
 
 ## LISTS
 
+You can make lists in MARKDOWN. There 2 types of lists: numbered and unnumbered ones.
+
+To create unnumbered list use (*) symbol in the begining of your row.
+
+> Unnumbered list:
+> * First item
+> * Second item
+
+You can also make **nested lists** by pressing (TAB) before  (*) symbol.
+> Nested list example:
+> * First item
+>   * frist nested
+>   * second nested
+> * Second item   
+
+To create numbered list use numbers with dot in the begining of your row.
+
+> Numbered lis example
+> 1. First item
+> 2. Second item
+
+
 ## LINKS AND PICS
 
