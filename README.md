@@ -2,7 +2,7 @@
 
 ### Little note
 
-I've read somewwhere that MARKDOWN is based of HTML and can be easelly converted to it. It also means that you can use all HTML commands in MD. 
+I've read somewhere that MARKDOWN is based of HTML and can be easilly converted to it. It also means that you can use all HTML commands in MD. 
 
 For example, to make your text underlined use HTML command (< u > and < /u > without spaces) to get <u> underlined text </u>.
 
