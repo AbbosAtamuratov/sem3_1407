@@ -150,3 +150,4 @@ You can also work with images in MARKDOWN.
 > ![everybody loves a good Shrek meme](shrek.jpg)
 
 <font size="4" color="pink" face="comic sans ms">So fancy....</font>
+<font size="4" color="cyan" face="segoe script">So fancy....</font>
